@@ -1,0 +1,16 @@
+[
+{
+  "modid": "autogg",
+  "name": "Auto GG",
+  "description": "Auto GG for the Hypixel Network.",
+  "version": "2.0.4",
+  "mcversion": "1.8.9",
+  "url": "https://2pi.pw/mods/autogg",
+  "updateUrl": "",
+  "authorList": ["2Pi"],
+  "credits": "2Pi",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
